@@ -1,0 +1,179 @@
+
+td,th{
+    border: 1px solid rgb(190, 190, 190);
+    padding: 45px;
+    width: 30px;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+th{  
+	width: 269px
+	border-radius: 99px;
+	background-color: lightgray
+}
+
+td{
+	cursor: pointer;
+	background-color: green;
+  }
+  
+a{color:black;}
+
+.oranje {background-color: orange;
+
+}
+
+.blauw {
+        background-color: purple;
+
+}
+.rood {
+	    background-color: blue
+}
+.geel {
+		background-color: purple; 
+}
+
+.groen{
+		background-color: blue;
+}
+.bruin{
+		background-color: purple;
+}
+.roze{
+		background-color: blue; 
+}
+.zwart{
+		background-color: yellow;
+
+}
+.wit{
+		background-color: yellow; 
+}
+.paars{
+		background-color: yellow; 
+
+}
+.lichtgroen{
+		background-color: purple;
+
+}
+.donkergroen{
+		background-color:blue; 
+
+}
+.lichtblauw{
+		background-color:yellow; 
+
+}
+.donkerblauw{
+		background-color:yellow;
+
+}
+.lichtgeel{
+		background-color: yellow;
+
+}
+
+.green {color: green }
+
+@media (hover: hover) {
+  .oranje:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .green:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .blauw:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .rood:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .geel:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .groen:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .bruin:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .roze:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .zwart:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .wit:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .paars:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .lichtgroen:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .donkergroen:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .lichtblauw:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .donkerblauw:hover {
+    background-color: lime;
+  }
+}
+
+@media (hover: hover) {
+  .lichtgeel:hover {
+    background-color: lime;
+  }
+
+
